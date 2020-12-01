@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "apprecycle90ff7512": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
